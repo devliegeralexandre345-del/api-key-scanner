@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/api-key-scanner/build/CMakeFiles/api_key_scanner.dir
+/home/ubuntu/cpp-generator/workspace/api-key-scanner/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/api-key-scanner/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/api-key-scanner/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/api-key-scanner/build/CMakeFiles/rebuild_cache.dir

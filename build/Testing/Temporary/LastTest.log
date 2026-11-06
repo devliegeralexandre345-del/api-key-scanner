@@ -1,0 +1,23 @@
+Start testing: Nov 06 16:58 UTC
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/home/ubuntu/cpp-generator/workspace/api-key-scanner/build/unit_tests"
+Directory: /home/ubuntu/cpp-generator/workspace/api-key-scanner/build
+"AllTests" start time: Nov 06 16:58 UTC
+Output:
+----------------------------------------------------------
+Found potential "AWS Access Key ID" in file: test_file.txt at line 1
+  Matched value: "AKIAIOSFODNN7EXAMPLE"
+Found potential "Google API Key" in file: test_file.txt at line 2
+  Matched value: "AIzaSyBvOkB5hJx8K9L0M1N2O3P4Q5R6S7T8U9V"
+Test completed successfully.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Nov 06 16:58 UTC
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 16:58 UTC

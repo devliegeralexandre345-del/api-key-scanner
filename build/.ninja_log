@@ -1,0 +1,9 @@
+# ninja log v5
+2	595	1793984299645891621	CMakeFiles/unit_tests.dir/tests/test.cpp.o	e5158658fca33e56
+1	604	1793984299654891946	CMakeFiles/api_key_scanner.dir/src/main.cpp.o	af596e694237157f
+2	880	1793984299929901872	CMakeFiles/unit_tests.dir/src/scanner.cpp.o	284766b9602dc079
+1	894	1793984299943902377	CMakeFiles/api_key_scanner.dir/src/scanner.cpp.o	2d79a261d3c7d9c5
+2	1388	1793984300435920135	CMakeFiles/unit_tests.dir/src/regex_patterns.cpp.o	2e53d19fb5de3072
+1	1399	1793984300447920568	CMakeFiles/api_key_scanner.dir/src/regex_patterns.cpp.o	c14ad07f7cb04cf4
+1388	1451	1793984300501352087	unit_tests	470465e2959465fc
+1400	1463	1793984300512861024	api_key_scanner	15eeeb6c6984c4bb
